@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My First Blog Post
-date:   2016-04-27 15:02:02 +0000
+date:   2016-04-27 15:04:54 +0000
 ---
 
 
@@ -23,9 +23,9 @@ XOXO,
 
 Abhi
 
-```
+```ruby
   drew = Drew.new
-    drew.eat_breakfast
+  drew.eat_breakfast
 ```
 
 
